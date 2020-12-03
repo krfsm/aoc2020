@@ -9,3 +9,13 @@ The ugliest of hacks, but hey, it gave the right result. Now, if I could only fi
 ## Day 2
 
 Also a not-fantastic solution, but it'll do, it solves the problem.
+
+## Day 3
+
+### Part 1
+
+Had a weird idea, but it worked.
+
+### Part 2
+
+Solved, iteratively.
